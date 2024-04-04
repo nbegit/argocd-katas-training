@@ -1,6 +1,6 @@
 apiVersion: apps/v1
-kkind: Deployment
-hmetadata:
+kind: Deployment
+metadata:
   creationTimestamp: null
   labels:
     app: frontend
